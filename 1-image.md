@@ -21,6 +21,9 @@ Descargar la imagen **hello-world**
 # COMPLETAR 
 
 Descargar la imagen  **nginx** en la versión **alpine**
+
+<img width="730" height="326" alt="image" src="https://github.com/user-attachments/assets/727378fa-1b23-4948-934b-bcb156a875a4" />
+
 # COMPLETAR
 Nginx (pronunciado "engine-x") es un servidor web muy popular y ligero, que también puede funcionar como:
 
@@ -40,6 +43,8 @@ docker images
 ```
 
 # COLOCAR UNA CAPTURA DE PANTALLA DEL RESULTADO 
+
+<img width="552" height="150" alt="image" src="https://github.com/user-attachments/assets/6dd1b66e-5ede-423d-91f6-13489e0b6077" />
 
 **Identificadores**
 
